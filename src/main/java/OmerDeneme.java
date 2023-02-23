@@ -5,5 +5,6 @@ public class OmerDeneme {
             sum=sum+i;
         }
         System.out.println(sum);
+        System.out.println("omer");
     }
 }
