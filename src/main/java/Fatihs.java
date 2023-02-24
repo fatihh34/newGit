@@ -17,6 +17,9 @@ public class Fatihs {
         public static void denem3(){
             System.out.println("hi");
         }
+        private static void deneme4(){
+            System.out.println("hiii");
+        }
     }
 
 
