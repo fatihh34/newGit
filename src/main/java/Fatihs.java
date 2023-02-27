@@ -20,6 +20,16 @@ public class Fatihs {
         private static void deneme4(){
             System.out.println("hiii");
         }
+        public static void zorMu(){
+            String java="Java";
+            String zor ="zor";
+            String kolay ="kolay";
+            if (java==zor){
+                System.out.println("Allah yardımcın olsun");
+            }else
+                System.out.println("Super");
+
+        }
     }
 
 
