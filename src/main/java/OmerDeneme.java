@@ -8,5 +8,9 @@ public class OmerDeneme {
         System.out.println("omer");
         System.out.println("omer2");
         System.out.println("omer3");
+        System.out.println("omer4");
+
     }
+
+
 }
