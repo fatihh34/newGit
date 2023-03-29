@@ -31,6 +31,7 @@ public class Fatihs {
             System.out.println("omer");
 
         }
+
     }
 
 
