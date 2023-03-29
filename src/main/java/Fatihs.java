@@ -28,8 +28,12 @@ public class Fatihs {
                 System.out.println("Allah yardımcın olsun");
             }else
                 System.out.println("Super");
+            System.out.println("omer");
 
         }
+
+    public Fatihs() {
     }
+}
 
 
