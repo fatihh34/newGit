@@ -33,6 +33,7 @@ public class Fatihs {
         }
 
     public Fatihs() {
+
     }
 }
 

@@ -10,6 +10,12 @@ public class OmerDeneme {
         System.out.println("omer3");
         System.out.println("omer4");
 
+        int a = 12;
+        int b=13;
+        int sonuc= a+b;
+        System.out.println("sonuc = " + sonuc);
+
+
     }
 
 
